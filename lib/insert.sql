@@ -1,5 +1,5 @@
 
-INSERT INTO projects (id, title, category, funding_goal, start_date, end_date) VALUES 
+INSERT INTO projects (id, title, category, funding_goal, start_date, end_date) VALUES
  (1, "Indie film", "Film", 100000, "01/01/19", "06/01/19"),
  (2, "BBQ sauce", "Food", 200000, "02/01/19", "07/01/19"),
  (3, "Card game", "Entertainment", 300000, "03/01/19", "12/01/19"),
